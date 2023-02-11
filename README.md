@@ -2,9 +2,9 @@
 
 ### About Me
 
-- 👨🏻‍🎓 I am Sebastian Bermudez, a student working towards a Bachelor's Degree in Computer Information Systems - Data Analytics;
-- 🗽 Based in New York, NY; 
-- 🎯 As a data analyst and a perennial learner, I am driven by my curiosity and desire to continuously grow. With my level of drive, no challenge is too large for me to tackle, and bring value to in a solution using data. 
+- 👨🏻‍🎓 I am Sebastian Bermudez, a student working towards a Bachelor's Degree in Computer Information Systems - Data Analytic
+- 🗽 Based in New York, NY;
+- 🎯 As a data analyst and a perennial learner, I am driven by my curiosity and desire to continuously grow. With my level of drive, no challenge is too large for me to tackle, and bring value to in a solution using data
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-bermudez-4b7912248/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bermudezsebastian99)
