@@ -18,6 +18,6 @@ I am Sebastian Bermudez, a **C Frontend Engineer** based out of Berlin working a
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bash0217&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bash0217&theme=dark&background=1E2126)](https://git.io/streak-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
