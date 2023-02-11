@@ -22,4 +22,4 @@
 ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bash0217&theme=dark&background=1E2126)](https://git.io/streak-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bash0217.bash0217)
